@@ -1,3 +1,3 @@
 # rsschool-profile
 Valiantsin Dziatlau
-https://www.codecademy.com/arcPlayer71610
+HTML CSS Basics: https://www.codecademy.com/users/arcPlayer71610/achievements
